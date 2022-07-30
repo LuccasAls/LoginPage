@@ -1,9 +1,15 @@
 # Login Page CSS
 ## Preview 💻
 
+<div style="display: inline-block">
+  <img src="./Preview/loginForm-DescktopLayout.png" width="730px"/>
+  <img src="./Preview/loginForm-MobileLayout.png" width="200px"/>
+</div>
+
+
 ## Sobre o projeto 
 
-Esse projeto foi criado a partir de um dos desafios do Discover, da plataforma ensino [Rocketseat](https://app.rocketseat.com.br/discover).
+Esse projeto foi criado a partir de um dos desafios do Discover, da plataforma de ensino [Rocketseat](https://app.rocketseat.com.br/discover).
 
 Um projeto que tem como objetivo criar uma página para a captação de leads ou newsletter, com a interface de uma tela de login responsiva.
 
@@ -11,12 +17,13 @@ Para mais informações sobre o desafio você pode conferir [AQUI](https://effic
 
 ---
 
-## Tecnologias :
+## Tecnologias 
 
 As tecnologias usadas foram:
-
-- HTML
-- CSS
+<div style="display: inline-block">
+   <img align="center" alt="Luccas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5
+   <img align="center" alt="Luccas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
+ </div>
 
 
 
