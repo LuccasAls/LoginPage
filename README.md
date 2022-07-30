@@ -2,8 +2,8 @@
 ## Preview 💻
 
 <div style="display: inline-block">
-  <img src="./Preview/loginForm-DescktopLayout.png" width="670px"/>
-  <img src="./Preview/loginForm-MobileLayout.png" width="190px"/>
+  <img src="./Preview/loginForm-DescktopLayout.png" width="650px"/>
+  <img src="./Preview/loginForm-MobileLayout.png" width="180px"/>
 </div>
 
 
