@@ -1,11 +1,14 @@
 # Login Page CSS
 ## Preview 💻
 
+<<<<<<< Updated upstream
 <div style="display: inline-block">
   <img src="./Preview/loginForm-DescktopLayout.png" width="650px"/>
   <img src="./Preview/loginForm-MobileLayout.png" width="180px"/>
 </div>
 
+=======
+>>>>>>> Stashed changes
 
 ## Sobre o projeto 
 
