@@ -2,10 +2,9 @@
 ## Preview 💻
 
 
-<div style="display: inline-block">
-  <img src="./Preview/loginForm-DescktopLayout.png" width="650px"/>
-  <img src="./Preview/loginForm-MobileLayout.png" width="180px"/>
-</div>
+|Web Version|Mobile Version|
+|-----------|--------------|
+|<img src="./Preview/loginForm-DescktopLayout.png" height="375px"/>| <img src="./Preview/loginForm-MobileLayout.png" height="375px"/>|
 
 ## Sobre o projeto 
 
